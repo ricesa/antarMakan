@@ -1,0 +1,78 @@
+C:\Users\Raisa Salsabila\source\repos\AntarDiet\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.exe
+C:\Users\Raisa Salsabila\source\repos\AntarDiet\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.deps.json
+C:\Users\Raisa Salsabila\source\repos\AntarDiet\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.runtimeconfig.json
+C:\Users\Raisa Salsabila\source\repos\AntarDiet\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.runtimeconfig.dev.json
+C:\Users\Raisa Salsabila\source\repos\AntarDiet\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.dll
+C:\Users\Raisa Salsabila\source\repos\AntarDiet\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.pdb
+C:\Users\Raisa Salsabila\source\repos\AntarDiet\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.csprojAssemblyReference.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.AssemblyInfoInputs.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.AssemblyInfo.cs
+C:\Users\Raisa Salsabila\source\repos\AntarDiet\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.csproj.CoreCompileInputs.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.dll
+C:\Users\Raisa Salsabila\source\repos\AntarDiet\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.pdb
+C:\Users\Raisa Salsabila\source\repos\AntarDiet\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.genruntimeconfig.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 1\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.exe
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 1\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.deps.json
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 1\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.runtimeconfig.json
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 1\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.runtimeconfig.dev.json
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 1\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.dll
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 1\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.pdb
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 1\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.csprojAssemblyReference.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 1\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.AssemblyInfoInputs.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 1\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.AssemblyInfo.cs
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 1\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.csproj.CoreCompileInputs.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 1\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.dll
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 1\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.pdb
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 1\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.genruntimeconfig.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 2\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.exe
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 2\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.deps.json
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 2\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.runtimeconfig.json
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 2\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.runtimeconfig.dev.json
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 2\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.dll
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 2\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.pdb
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 2\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.csprojAssemblyReference.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 2\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.AssemblyInfoInputs.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 2\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.AssemblyInfo.cs
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 2\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.csproj.CoreCompileInputs.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 2\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.dll
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 2\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.pdb
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 2\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.genruntimeconfig.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 3\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.exe
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 3\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.deps.json
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 3\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.runtimeconfig.json
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 3\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.runtimeconfig.dev.json
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 3\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.dll
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 3\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.pdb
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 3\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.csprojAssemblyReference.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 3\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.AssemblyInfoInputs.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 3\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.AssemblyInfo.cs
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 3\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.csproj.CoreCompileInputs.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 3\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.dll
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 3\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.pdb
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 3\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.genruntimeconfig.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 4\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.exe
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 4\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.deps.json
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 4\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.runtimeconfig.json
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 4\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.runtimeconfig.dev.json
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 4\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.dll
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 4\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.pdb
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 4\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.csprojAssemblyReference.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 4\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.AssemblyInfoInputs.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 4\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.AssemblyInfo.cs
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 4\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.csproj.CoreCompileInputs.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 4\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.dll
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 4\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.pdb
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 4\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.genruntimeconfig.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 6\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.exe
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 6\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.deps.json
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 6\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.runtimeconfig.json
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 6\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.runtimeconfig.dev.json
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 6\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.dll
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 6\AntarDiet\bin\Debug\netcoreapp3.1\AntarDiet.pdb
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 6\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.csprojAssemblyReference.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 6\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.AssemblyInfoInputs.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 6\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.AssemblyInfo.cs
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 6\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.csproj.CoreCompileInputs.cache
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 6\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.dll
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 6\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.pdb
+C:\Users\Raisa Salsabila\source\repos\AntarDiet - Revisi 6\AntarDiet\obj\Debug\netcoreapp3.1\AntarDiet.genruntimeconfig.cache
