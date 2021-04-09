@@ -1,0 +1,13 @@
+C:\Users\Raisa Salsabila\source\repos\DietKuy\DietKuy\bin\Debug\netcoreapp3.1\DietKuy.exe
+C:\Users\Raisa Salsabila\source\repos\DietKuy\DietKuy\bin\Debug\netcoreapp3.1\DietKuy.deps.json
+C:\Users\Raisa Salsabila\source\repos\DietKuy\DietKuy\bin\Debug\netcoreapp3.1\DietKuy.runtimeconfig.json
+C:\Users\Raisa Salsabila\source\repos\DietKuy\DietKuy\bin\Debug\netcoreapp3.1\DietKuy.runtimeconfig.dev.json
+C:\Users\Raisa Salsabila\source\repos\DietKuy\DietKuy\bin\Debug\netcoreapp3.1\DietKuy.dll
+C:\Users\Raisa Salsabila\source\repos\DietKuy\DietKuy\bin\Debug\netcoreapp3.1\DietKuy.pdb
+C:\Users\Raisa Salsabila\source\repos\DietKuy\DietKuy\obj\Debug\netcoreapp3.1\DietKuy.csprojAssemblyReference.cache
+C:\Users\Raisa Salsabila\source\repos\DietKuy\DietKuy\obj\Debug\netcoreapp3.1\DietKuy.AssemblyInfoInputs.cache
+C:\Users\Raisa Salsabila\source\repos\DietKuy\DietKuy\obj\Debug\netcoreapp3.1\DietKuy.AssemblyInfo.cs
+C:\Users\Raisa Salsabila\source\repos\DietKuy\DietKuy\obj\Debug\netcoreapp3.1\DietKuy.csproj.CoreCompileInputs.cache
+C:\Users\Raisa Salsabila\source\repos\DietKuy\DietKuy\obj\Debug\netcoreapp3.1\DietKuy.dll
+C:\Users\Raisa Salsabila\source\repos\DietKuy\DietKuy\obj\Debug\netcoreapp3.1\DietKuy.pdb
+C:\Users\Raisa Salsabila\source\repos\DietKuy\DietKuy\obj\Debug\netcoreapp3.1\DietKuy.genruntimeconfig.cache
